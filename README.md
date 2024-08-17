@@ -3,8 +3,8 @@
 Sou um jovem estudante de programação Back-end, com foco em Python. Apaixonado pela área, estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades. Minha dedicação e entusiasmo pela programação me motivam a enfrentar qualquer obstáculo e a continuar crescendo profissionalmente.
 
 <div>
-  <img alt="my stats" align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=MateusHenriique&show_icons=true&theme=dracula"/>
-  <img alt="top langs" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHenriique&layout=compact&theme=dracula"/>
+  <img alt="my stats" align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=MateusHenriique&show_icons=true&theme=dracula"/>
+  <img alt="top langs" height="159px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHenriique&layout=compact&theme=dracula"/>
 </div>
 
 ##
