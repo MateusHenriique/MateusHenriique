@@ -1,19 +1,20 @@
-## Hello! I am Mateus Henrique
+## Hello! My name is Mateus Henrique
 
-Sou um jovem estudante de programação Back-end, com foco em Python. Apaixonado pela área, estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades. Minha dedicação e entusiasmo pela programação me motivam a enfrentar qualquer obstáculo e a continuar crescendo profissionalmente.
+Sou um jovem estudante de programação, com foco em Python. Apaixonado pela área, estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades. Minha dedicação e entusiasmo pela programação me motivam a enfrentar qualquer obstáculo e a continuar crescendo profissionalmente.
+
+## GitHub Stats:
 
 <div>
   <img alt="my stats" align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=MateusHenriique&show_icons=true&theme=dracula"/>
   <img alt="top langs" height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHenriique&layout=compact&theme=dracula"/>
 </div>
 
-##
-
+## Technologies:
 <div>
-  
+
   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />        
-  <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />    
+  <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />    
+  <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />  
   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
