@@ -17,5 +17,3 @@
   <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           
 </div>    
-
-![snake gif](https://github.com/MateusHenriique/MateusHenriique/blob/output/github-contribution-grid-snake.svg)
