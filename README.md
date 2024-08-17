@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img alt="my stats" align="left" height="210em" src="https://github-readme-stats.vercel.app/api?username=MateusHenriique&show_icons=true&theme=dracula"/>
+  <img alt="my stats" height="210em" src="https://github-readme-stats.vercel.app/api?username=MateusHenriique&show_icons=true&theme=dracula"/>
   <img alt="top langs" height="209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHenriique&layout=compact&theme=dracula"/>
 </div>
 
