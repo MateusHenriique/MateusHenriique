@@ -17,4 +17,7 @@
   <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           
 </div>    
-          
+
+![Snake animation](https://github.com/MateusHenriique/MateusHenriique/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readne-stats.versel.app/api/pin/?username=MateusHenriique&repo=MateusHenriique%theme=react)](https://github.com/MateusHenriique/MateusHenriique)
