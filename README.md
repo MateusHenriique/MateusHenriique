@@ -18,6 +18,4 @@
           
 </div>    
 
-![Snake animation](https://github.com/MateusHenriique/MateusHenriique/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readne-stats.versel.app/api/pin/?username=MateusHenriique&repo=MateusHenriique%theme=react)](https://github.com/MateusHenriique/MateusHenriique)
+![snake gif](https://github.com/MateusHenriique/MateusHenriique/blob/output/github-contribution-grid-snake.svg)
