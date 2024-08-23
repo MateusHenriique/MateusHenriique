@@ -5,13 +5,14 @@
 </div>
 
 <div align="center">
-  <a href="https://www.instagram.com/mateus._.hh/"> <img width="100px" height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-  <a href="https://www.linkedin.com/in/mateus-henrique-8251b2249"> <img width="100px" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href="mailto:mateush5453@gmail.com"> <img width="100px" height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <h3>Sou um jovem estudante de programação. Apaixonado pela área, estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades. Minha dedicação e entusiasmo pela programação me motivam a enfrentar qualquer obstáculo e a continuar crescendo profissionalmente.</h3>
 </div>
 
 <div align="center">
-  <h3>Sou um jovem estudante de programação. Apaixonado pela área, estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades. Minha dedicação e entusiasmo pela programação me motivam a enfrentar qualquer obstáculo e a continuar crescendo profissionalmente.</h3>
+  <h1>Contacts:</h1>
+  <a href="https://www.instagram.com/mateus._.hh/"> <img width="100px" height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/mateus-henrique-8251b2249"> <img width="100px" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href="mailto:mateush5453@gmail.com"> <img width="100px" height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 </div>
 
 <div align="center">
